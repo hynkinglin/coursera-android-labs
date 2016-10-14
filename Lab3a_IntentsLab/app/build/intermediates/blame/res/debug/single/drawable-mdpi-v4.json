@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3a_IntentsLab/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3a_IntentsLab/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lkj/Andro/AndroidStudioProjects/coursera-android-labs-master/Lab3a_IntentsLab/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/lkj/Andro/AndroidStudioProjects/coursera-android-labs-master/Lab3a_IntentsLab/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
