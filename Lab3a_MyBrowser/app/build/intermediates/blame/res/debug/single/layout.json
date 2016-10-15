@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lkj/AndroidStudio/coursera-android-labs-master/Lab3a_MyBrowser/app/build/intermediates/res/merged/debug/layout/my_browser_activity.xml",
+        "source": "/home/lkj/AndroidStudio/coursera-android-labs-master/Lab3a_MyBrowser/app/src/main/res/layout/my_browser_activity.xml"
+    },
+    {
+        "merged": "/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3a_MyBrowser/app/build/intermediates/res/merged/debug/layout/my_browser_activity.xml",
+        "source": "/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3a_MyBrowser/app/src/main/res/layout/my_browser_activity.xml"
+    }
+]

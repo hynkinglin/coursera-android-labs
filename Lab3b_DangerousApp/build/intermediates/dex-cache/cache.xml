@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba5eaf9380a55cc2b8d7fe1d0084709b8f7896e9.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_320c08dedbc5198fa638c01824113593e6855508.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5b185f0ccce3e86c8a3bf634f02cb3e745b760f8.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_60ea54992506e9906bf6716e449c0e3ced451c06.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c491fbfa605c37f2242d2c86912912879419cbdf.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e7c0bf31db705a1149ade5f62b7170ebfccbb509.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_7bb2271f58edd3f996ecfdabf63542abb6aa0aaa.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_331ca5f65b10481403e87f050c78b36dc5db1b65.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8d08afa021e3b910c5b79d2dfef3e9f9a26399c8.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2d965b611f728de8153d072a59511488233fd622.jar" />
+    </item>
+    <item
+        jar="/home/lkj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_64c9db7c72135fb3c871c252ad355c19791b4e74.jar" />
+    </item>
+    <item
+        jar="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/lkj/AndroidStudioProjects/coursera-android-labs-master/Lab3b_DangerousApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4d9083aa07c4f81a8565281f8d628c1888cc9270.jar" />
+    </item>
+
+</items>
