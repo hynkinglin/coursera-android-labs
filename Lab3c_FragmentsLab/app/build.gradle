@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
+    compileSdkVersion 23
     buildToolsVersion "24.0.2"
 
     defaultConfig {
         applicationId "course.labs.fragmentslab"
         minSdkVersion 13
-        targetSdkVersion 18
+        targetSdkVersion 23
 
         testApplicationId "course.labs.fragmentslab.test"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
@@ -22,5 +22,5 @@ android {
 }
 
 dependencies {
-    androidTestCompile 'com.jayway.android.robotium:robotium-solo:5.3.1'
+    androidTestCompile files('libs/robotium-solo-5.3.1.jar')
 }
